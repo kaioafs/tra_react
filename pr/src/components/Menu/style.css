@@ -1,0 +1,36 @@
+header{
+    width: 100vw;
+    height: 50px;
+    background-color: #c4d4b4;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+.Logo{
+    font-family: Andale Mono, monospace;
+    text-align: center;
+}
+
+.Menu{
+    text-align: center;
+}
+.Menu ul li{
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+    font-family: Andale Mono, monospace;
+}
+.Menu ul li a{
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+
+.op{
+    width: 875px;
+}
